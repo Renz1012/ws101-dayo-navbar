@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ws101-dayo-navbar/static/css/main.1568d706.css",
+    "main.js": "/ws101-dayo-navbar/static/js/main.dfca6051.js",
+    "index.html": "/ws101-dayo-navbar/index.html",
+    "main.1568d706.css.map": "/ws101-dayo-navbar/static/css/main.1568d706.css.map",
+    "main.dfca6051.js.map": "/ws101-dayo-navbar/static/js/main.dfca6051.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1568d706.css",
+    "static/js/main.dfca6051.js"
+  ]
+}
